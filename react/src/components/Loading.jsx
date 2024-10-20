@@ -1,5 +1,5 @@
 import React from 'react';
-import './Loading.css'; // Create a CSS file for loading animations
+import './loading.css'; // Create a CSS file for loading animations
 
 function Loading() {
   return (
