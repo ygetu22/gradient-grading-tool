@@ -23,4 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-./react/src/utils/.env
+/Users/yakob/hackohio12/react/src/utils/.env
