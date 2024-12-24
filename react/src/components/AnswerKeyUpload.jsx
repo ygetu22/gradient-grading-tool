@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { uploadAnswerKey } from '../utils/api';
+import './loading.css'; // Add loading CSS if needed
 
 function AnswerKeyUpload({ setLoading, setUploaded }) {
   const [file, setFile] = useState(null);

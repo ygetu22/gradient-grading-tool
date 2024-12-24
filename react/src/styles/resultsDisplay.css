@@ -1,12 +1,25 @@
+/* resultsDisplay.css */
+.results-container {
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #2b2d42;
+  border-radius: 10px;
+  width: 50%;
+  text-align: left;
+}
+
+.result-row {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #8d99ae;
+  margin-bottom: 15px;
+}
+
 .student-result {
-    margin-bottom: 20px;
-  }
-  
-  .student-result h3 {
-    font-size: 1.5em;
-  }
-  
-  .student-result p {
-    margin: 5px 0;
-  }
-  
+  background-color: #d90429;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
